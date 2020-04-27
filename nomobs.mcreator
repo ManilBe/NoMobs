@@ -1,0 +1,149 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlazeChunk",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_chunk"
+    },
+    {
+      "name": "StringRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_recipe"
+    },
+    {
+      "name": "BlazeRode",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rode"
+    },
+    {
+      "name": "BlazeChunkRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_chunk_recipe"
+    },
+    {
+      "name": "Eye",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eye"
+    },
+    {
+      "name": "EyeRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eye_recipe"
+    },
+    {
+      "name": "SpiderEye",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye"
+    },
+    {
+      "name": "Cobweb",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobweb"
+    },
+    {
+      "name": "GunpowderRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_recipe"
+    },
+    {
+      "name": "WhitePowderRecipe",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_powder_recipe"
+    },
+    {
+      "name": "CookedRottenFlesh",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_rotten_flesh"
+    },
+    {
+      "name": "CookedRottenFleshRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_rotten_flesh_recipe"
+    },
+    {
+      "name": "EnderPearlRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.nomobs.white_powder_recipe": "White Powder Recipe",
+      "item.nomobs.cooked_rotten_flesh": "Cooked Rotten Flesh",
+      "item.nomobs.eye": "Eye",
+      "item.nomobs.blaze_chunk": "Blaze Chunk"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "nomobs",
+    "modName": "NoMobs",
+    "version": "1.0.0",
+    "author": "ManilBe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.15.2",
+    "modElementsPackage": "fr.manilbe.nomobs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000316610
+}

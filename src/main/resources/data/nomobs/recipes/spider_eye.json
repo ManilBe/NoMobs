@@ -1,0 +1,19 @@
+{
+  "group": "nomobs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobweb"
+    },
+    "1": {
+      "item": "nomobs:eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 1
+  }
+}

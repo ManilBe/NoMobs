@@ -1,0 +1,30 @@
+{
+  "group": "nomobs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "nomobs:eye"
+    },
+    "3": {
+      "item": "nomobs:eye"
+    },
+    "4": {
+      "item": "minecraft:honeycomb"
+    },
+    "5": {
+      "item": "nomobs:eye"
+    },
+    "7": {
+      "item": "nomobs:eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:ender_pearl",
+    "count": 1
+  }
+}

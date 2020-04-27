@@ -1,0 +1,19 @@
+{
+  "group": "nomobs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nomobs:blaze_chunk"
+    },
+    {
+      "item": "nomobs:blaze_chunk"
+    },
+    {
+      "item": "nomobs:blaze_chunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

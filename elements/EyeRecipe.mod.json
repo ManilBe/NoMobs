@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Eye"
+    },
+    "name": "eye_recipe",
+    "namespace": "mod"
+  }
+}
