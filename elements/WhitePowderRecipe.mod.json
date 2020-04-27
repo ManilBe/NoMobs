@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "whitepowder",
     "customModelName": "Normal",
-    "name": "White Powder Recipe",
+    "name": "White Powder",
     "creativeTab": {
       "value": "MISC"
     },

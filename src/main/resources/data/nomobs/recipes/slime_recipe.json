@@ -1,0 +1,11 @@
+{
+  "group": "nomobs",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "result": {
+    "item": "minecraft:slime_ball"
+  }
+}

@@ -117,13 +117,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ender_pearl_recipe"
+    },
+    {
+      "name": "SlimeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_recipe"
+    },
+    {
+      "name": "PhantomMembrane",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "phantom_membrane"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.nomobs.white_powder_recipe": "White Powder Recipe",
+      "item.nomobs.white_powder_recipe": "White Powder",
       "item.nomobs.cooked_rotten_flesh": "Cooked Rotten Flesh",
       "item.nomobs.eye": "Eye",
       "item.nomobs.blaze_chunk": "Blaze Chunk"
